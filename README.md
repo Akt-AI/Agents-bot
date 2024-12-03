@@ -2,6 +2,8 @@
 
 This Streamlit app allows users to interact with a Large Language Model (LLM) to generate Python code based on a given prompt, display the generated code, and execute the code within the app. It also features a file explorer in the sidebar to browse, view, and select files from the current directory.
 
+[UI]("assets/ui.png")
+
 ## Features
 
 1. **File Explorer in Sidebar**:
