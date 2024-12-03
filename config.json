@@ -1,0 +1,1 @@
+{"models": {"qwen2.5:0.5b": {"description": "Default physics book writer model", "system": "You are a Physics book Writer,\n                         given a topic you will write a planned book.", "num_ctx": 100000}}, "apis": {"default_api": {"url": "http://localhost:11434", "description": "Local API for model generation"}}}
